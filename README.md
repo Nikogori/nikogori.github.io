@@ -2,4 +2,4 @@
 
 Nikogoriの個人サイトです。
 
-https://orbinautjp.github.io/
+https://nikogori.github.io/
