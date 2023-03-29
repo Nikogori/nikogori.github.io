@@ -1,3 +1,9 @@
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path:            "googlee849d201c8e4c44c.html"
+    values:
+      sitemap:         false
