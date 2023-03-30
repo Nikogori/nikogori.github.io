@@ -8,3 +8,4 @@ Orbiter Space Flight Simulatorの解説サイトを運営しています。
 ## 書いたもの
 
 - [MechWarrior 5の前日譚を紹介するよ](mercenarylife_summary.html)
+- [GitHub Pagesのテーマを変更する](ghpages_themes.html)
