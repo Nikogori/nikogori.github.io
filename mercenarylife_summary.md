@@ -2,6 +2,10 @@
 
 [MechWarrior 5: Mercenaries](https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/)の世界観とか登場人物とかを紹介する小説について、内容をざっくりまとめてみました。
 
+MechWarrior 5（メックウォーリア5）というゲームについては、以下のサイトで詳しく紹介されており、日本語化ファイルも配布されています。
+
+[メックウォーリア５ (MechWarrior5) 日本語化 その他攻略情報まとめ](https://mechwarrior5-karan.studio.site/1)
+
 ## The Mercenary Life
 
 "The Mercenary Life" は、MechWarrior 5の主人公、メイソン司令官の両親を主役とした小説です。父ニコライ・メイソンと母クロエ・リードの2人が、傭兵団「キャバリアーズ」を結成し、中心領域での戦いに身を投じていくまでを描いた年代記です。
